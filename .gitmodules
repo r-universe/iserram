@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ercv"]
+	path = ercv
+	url = https://github.com/cran/ercv
+	shallow = true
+	registered = true
